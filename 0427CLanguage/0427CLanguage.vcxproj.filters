@@ -21,7 +21,7 @@
     <ClCompile Include="22_structure_02.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="23_radix.c">
+    <ClCompile Include="24_radix.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
